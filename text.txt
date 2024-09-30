@@ -1,0 +1,1 @@
+This is practice for working with a repository in git bash. This is invaluable experience for learning to code and/or be a developer.
